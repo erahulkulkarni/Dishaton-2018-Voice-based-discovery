@@ -1,0 +1,40 @@
+
+Privacy ?
+
+Now assume data set available - Big data
+
+Python, function call, parameters , return values
+
+user rating list, suggestions for each
+
+Rating / Views / Complete Views / Star Option given / Available
+
+Good Rating by less number of people vs Good Rating by more number of people
+Weighted average, regularization
+
+m , minimum votes to be listed in charts
+
+90 percentile, dynamic
+
+quantile
+
+mean rating of daily soap
+
+Text description of each soap
+
+Term document matrix
+
+Recommend based on: 1. Story line (class , cluster), 2. Lead Roles , 3. Timing of show (user watching habits), 
+sports, adventure, educational, animation, news are already present
+
+Computational Power
+
+Data , DTM is large dimension
+
+CNN for Voice recognition
+
+
+euclidean, the Pearson and the cosine similarity scores
+Other scores ?
+
+
